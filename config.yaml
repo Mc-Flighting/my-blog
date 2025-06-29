@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: Hugo Ivy
+title: kewan
 theme: "hugo-ivy"
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 preserveTaxonomyNames: true
